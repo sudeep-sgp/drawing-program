@@ -1,0 +1,4 @@
+module drawing.program {
+    requires com.google.common;
+    exports com.cs.ag.receiver;
+}
