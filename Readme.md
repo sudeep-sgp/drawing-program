@@ -1,5 +1,5 @@
 # Drawing-Program
-A simple console version of a drawing program
+A simple console version of a drawing program [fun]
 # Description 
 At this time, the functionality of the program is quite limited, but this might change in the future. 
 In a nutshell, the program should work as follows:

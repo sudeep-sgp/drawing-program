@@ -21,7 +21,7 @@
               <manifest>
                 <addClasspath>true</addClasspath>
                 <classpathPrefix>lib/</classpathPrefix>
-                <mainClass>com.cs.ag.App</mainClass>
+                <mainClass>com.sudeep.devplay.App</mainClass>
               </manifest>
             </archive>
           </configuration>
@@ -39,7 +39,7 @@
                 <transformers>
                   <transformer>
                     <manifestEntries>
-                      <Main-Class>com.cs.ag.App</Main-Class>
+                      <Main-Class>com.sudeep.devplay.App</Main-Class>
                     </manifestEntries>
                   </transformer>
                 </transformers>
@@ -52,7 +52,7 @@
           <artifactId>exec-maven-plugin</artifactId>
           <version>1.6.0</version>
           <configuration>
-            <mainClass>com.cs.ag.App</mainClass>
+            <mainClass>com.sudeep.devplay.App</mainClass>
           </configuration>
         </plugin>
         <plugin>
